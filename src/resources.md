@@ -6,30 +6,30 @@
 
 - **Официальный сайт Changan в России**: [https://changan.ru](https://changan.ru)
 - **Каталог моделей и комплектаций**: [https://changan.ru/models/hunter-plus](https://changan.ru/models/hunter-plus)
-- **Поиск дилеров**: [https://changan.ru/dealers](https://changan.ru/dealers)
+- **Поиск дилеров**: [https://changan.ru/#contacts](https://changan.ru/#contacts)
 - **Сервисные центры**: [https://changan.ru/service](https://changan.ru/service)
 
 ## Сообщества владельцев
 
 ### Форумы
-- **Официальный форум Changan**: [https://forum.changan.ru](https://forum.changan.ru)
-- **Форум "Китайские автомобили"**: [https://china-auto.club](https://china-auto.club)
+
+- **Официальный форум Changan**: [https://forum.changan.ru]()
+- **Форум "Китайские автомобили"**: [https://china-auto.club]()
 - **Раздел Changan на Drive2**: [https://drive2.ru/cars/changan](https://drive2.ru/cars/changan)
 
 ### Социальные сети и мессенджеры
-- **Telegram-чат владельцев Changan**: [https://t.me/changan_owners](https://t.me/changan_owners)
-- **Группа VK "Changan Hunter | Владельцы"**: [https://vk.com/changan_hunter](https://vk.com/changan_hunter)
-- **Чат WhatsApp региона Москва**: [ссылка] (по запросу в сообществе)
+
+- **Telegram-чат владельцев Changan**: [https://t.me/changan_hunter_plus](https://t.me/changan_hunter_plus)
+- **Группа VK "Changan Hunter | Владельцы"**: [https://vk.com/changan_hunter]()
 
 ### YouTube-каналы
-- **Официальный канал Changan Russia**: [https://youtube.com/c/ChanganRussia](https://youtube.com/c/ChanganRussia)
-- **Обзоры и тесты от автоэкспертов**: [https://youtube.com/playlist?list=...](https://youtube.com/playlist?list=...)
+
+- **Официальный канал Changan Russia**: [https://youtube.com/c/ChanganRussia]()
+- **Обзоры и тесты от автоэкспертов**: [https://youtube.com/playlist?list=...]()
 
 ## Полезные сайты и обзоры
 
 - **Авто.ру — отзывы владельцев**: [https://auto.ru/catalog/changan/hunter_plus](https://auto.ru/catalog/changan/hunter_plus)
-- **Дром — обсуждения и цены**: [https://drom.ru/changan/hunter-plus](https://drom.ru/changan/hunter-plus)
-- **Колёса.ру — тест-драйвы**: [https://kolesa.ru/tag/changan-hunter-plus](https://kolesa.ru/tag/changan-hunter-plus)
 
 ## Сервисная документация
 
@@ -41,23 +41,22 @@
 ## Магазины запчастей и аксессуаров
 
 ### Оригинальные запчасти
-- **Официальный интернет-магазин Changan Parts**: [https://parts.changan.ru](https://parts.changan.ru)
+
+- **Официальный интернет-магазин Changan Parts**: [https://parts.changan.ru]()
 - **Дилерские центры** (уточняйте наличие)
 
 ### Аналоги и неоригинал
+
 - **Exist.ru** — каталог аналогов: [https://exist.ru](https://exist.ru)
 - **Emex.ru** — поиск по VIN: [https://emex.ru](https://emex.ru)
 - **Auto3N.ru** — запчасти для китайских авто: [https://auto3n.ru](https://auto3n.ru)
 
 ### Внедорожные аксессуары и тюнинг
+
 - **4x4 магазины**: [https://offroadmaster.ru](https://offroadmaster.ru), [https://jeepstyle.ru](https://jeepstyle.ru)
-- **Защита элементов днища**: [ссылка на специализированный магазин]
-- **Лебедки и силовые бампера**: [ссылка]
 
 ## Полезные инструменты
 
-- **Расчёт расхода топлива**: онлайн-калькуляторы
-- **Регистрация на техосмотр**: [https://gto.ru](https://gto.ru)
 - **Проверка истории автомобиля по VIN**: [https://vin.auto.ru](https://vin.auto.ru)
 
 ---
