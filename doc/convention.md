@@ -25,7 +25,7 @@
 - Сообщения на английском языке
 - Формат: `type: short description`
 - Типы: `feat`, `fix`, `doc`, `style`, `refactor`
-- Пример: `docs: Add engine specifications section`
+- Пример: `doc: Add engine specifications section`
 
 ### Pull Requests
 
@@ -81,7 +81,7 @@ grep -r "^# $" src/
 4. Добавить ссылку на новый раздел в `src/SUMMARY.md`
 5. `mdbook build` (создаст файлы по путям из SUMMARY.md)
 6. Редактировать созданные файлы в `src/`
-7. `git add . && git commit -m "docs: Add new section"`
+7. `git add . && git commit -m "doc: Add new section"`
 8. `git push origin feature/new-section`
 9. Создать PR
 
