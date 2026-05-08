@@ -1,0 +1,7 @@
+[book]
+title = "Changan Hunter Plus"
+authors = []
+language = "ru"
+
+[output.html]
+additional-css = ["theme/custom.css"]
