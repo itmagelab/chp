@@ -5,7 +5,7 @@
 
   <a href="overview/general.md">
     <div class="hero-text">
-      <p>Manual</p>
+      <h1>Руководство пользователя</h1>
     </div>
   </a>
 </div>
