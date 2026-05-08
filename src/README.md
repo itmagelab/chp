@@ -1,3 +1,8 @@
+<!-- markdownlint-disable MD033 -->
+<!-- markdownlint-disable MD041 -->
+<!-- markdownlint-disable MD045 -->
+<!-- markdownlint-disable MD013 -->
+
 <img src="https://changan-official.com/wp-content/uploads/2024/10/hunter-logo-1536x283.png" loading="lazy" decoding="async">
 
 <div class="hero">
