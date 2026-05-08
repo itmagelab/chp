@@ -10,7 +10,7 @@
 
   <a href="overview/general.md">
     <div class="hero-text">
-      <h1>Руководство пользователя</h1>
+      <p>Руководство пользователя</p>
     </div>
   </a>
 </div>
