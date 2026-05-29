@@ -51,3 +51,12 @@ brew install android-platform-tools
     ```
     Это установит новую версию, сохраняя пользовательские данные приложения.
 
+## Troubleshooting
+
+```
+system_profiler SPUSBDataType
+ioreg -p IOUSB
+adb kill-server
+adb start-server
+adb devices -l
+```
