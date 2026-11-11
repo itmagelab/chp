@@ -13,19 +13,19 @@
 
 ### Форумы
 
-- **Официальный форум Changan**: [https://forum.changan.ru]()
-- **Форум "Китайские автомобили"**: [https://china-auto.club]()
-- **Раздел Changan на Drive2**: [https://drive2.ru/cars/changan](https://drive2.ru/cars/changan)
+- **Официальный форум Changan**: <https://forum.changan.ru>
+- **Форум "Китайские автомобили"**: <https://china-auto.club>
+- **Раздел Changan на Drive2**: <https://drive2.ru/cars/changan>
 
 ### Социальные сети и мессенджеры
 
-- **Telegram-чат владельцев Changan**: [https://t.me/changan_hunter_plus](https://t.me/changan_hunter_plus)
-- **Группа VK "Changan Hunter | Владельцы"**: [https://vk.com/changan_hunter]()
+- **Telegram-чат владельцев Changan**: <https://t.me/changan_hunter_plus>
+- **Группа VK "Changan Hunter | Владельцы"**: <https://vk.com/changan_hunter>
 
 ### YouTube-каналы
 
-- **Официальный канал Changan Russia**: [https://youtube.com/c/ChanganRussia]()
-- **Обзоры и тесты от автоэкспертов**: [https://youtube.com/playlist?list=...]()
+- **Официальный канал Changan Russia**: <https://youtube.com/c/ChanganRussia>
+- **Обзоры и тесты от автоэкспертов**: подборка плейлистов по запросу «Changan Hunter Plus обзор»
 
 ## Полезные сайты и обзоры
 
@@ -33,16 +33,16 @@
 
 ## Сервисная документация
 
-- **Электронное руководство по эксплуатации**: [https://changan.ru/manuals/hunter-plus](https://changan.ru/manuals/hunter-plus)
-- **Каталог запчастей (EPC)**: [https://epc.changan.ru](https://epc.changan.ru) (требуется регистрация)
-- **Схемы электрооборудования**: [ссылка на PDF]
-- **Регламенты технического обслуживания**: см. раздел [Обслуживание](../maintenance/schedule.md)
+- **Электронное руководство по эксплуатации**: <https://changan.ru/manuals/hunter-plus>
+- **Каталог запчастей (EPC)**: <https://epc.changan.ru> (требуется регистрация)
+- **Схемы электрооборудования**: отдельным файлом не публикуются — запрашивайте у дилера по VIN
+- **Регламенты технического обслуживания**: см. раздел [Обслуживание](maintenance/schedule.md)
 
 ## Магазины запчастей и аксессуаров
 
 ### Оригинальные запчасти
 
-- **Официальный интернет-магазин Changan Parts**: [https://parts.changan.ru]()
+- **Официальный интернет-магазин Changan Parts**: <https://parts.changan.ru>
 - **Дилерские центры** (уточняйте наличие)
 
 ### Аналоги и неоригинал
