@@ -1,12 +1,20 @@
-# Multimedia
+# Мультимедиа и интерфейс
 
-## ADB installation (Android Debug Bridge)
+Раздел о мультимедийной системе Hunter Plus и доступе к ней с компьютера. Все действия с головным устройством — на ваш риск: ошибка в системных настройках может привести к потере гарантии или к неработоспособности магнитолы.
 
-### MacOS
+## Установка ADB (Android Debug Bridge)
 
-```
+### macOS
+
+```bash
 brew install android-platform-tools
 ```
+
+### Windows
+
+1. Скачайте Platform Tools с сайта Android Developer.
+2. Распакуйте архив и добавьте папку `platform-tools` в `PATH`.
+3. Проверьте установку командой `adb version`.
 
 ## Что такое ADB и для чего он нужен?
 
@@ -51,7 +59,7 @@ brew install android-platform-tools
     ```
     Это установит новую версию, сохраняя пользовательские данные приложения.
 
-## Troubleshooting
+## Диагностика подключения
 
 ```
 system_profiler SPUSBDataType
